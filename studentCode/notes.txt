@@ -1,0 +1,10 @@
+notes.txt
+
+clocking out at 2:45 am
+if you compile and run, everytime you give it input it prints 2 words as it 
+should and then it fucks up and doesn't print anything else correctly. it might
+have something to do with the global vars
+
+of course you also have ot make the make file and make the game work with
+other files and check for freed memory and check if a user has entered a word
+twice and things like that. find office hours.
